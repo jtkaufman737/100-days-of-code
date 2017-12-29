@@ -4,6 +4,8 @@ For day 1, I actually outdid myself with more than 2 hours of coding after work.
 I am at the point currently where I have the server running with node and have seeded the Mongo db after creating my model. I'm planning
 on using this for a new blog site called 'Enough to be dangerous' where I discuss newbie coding experiences and break down topics
 
+![ETBD Logo](https://github.com/jtkaufman737/100-days-of-code/blob/master/enough_to_be_dangerous.PNG) 
+
 -This was really my first toe into the water of noSQL databases, and also my first toe into Vue. I was struck by the similarities to the 
 entire process to the many, many Ruby/Rails apps I've made. And since I deal a lot with SQL and more traditional relational databases at 
 work, it was also interesting to note that like many things in code, the same patterns repeat. For instance, setting up the schema. I 
